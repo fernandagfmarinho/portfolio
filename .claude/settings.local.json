@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l \"c:/Users/rapha/dev/Github/portfolio/Civio – Framer Resume Template \\(28_03_2026 18：32：56\\).html\")",
+      "Bash(head -n 80 \"c:/Users/rapha/dev/Github/portfolio/Civio – Framer Resume Template \\(28_03_2026 18：32：56\\).html\")",
+      "Bash(cat \"c:/Users/rapha/dev/Github/portfolio/Civio – Framer Resume Template \\(28_03_2026 18：32：56\\).html\")",
+      "Bash(wc -l cat \"c:/Users/rapha/dev/Github/portfolio/Civio – Framer Resume Template \\(28_03_2026 18：32：56\\).html\")",
+      "Bash(python3:*)",
+      "Bash(\"c:/Users/rapha/dev/Github/portfolio/.gitignore\":*)",
+      "Bash(__NEW_LINE_0717c668e5f6f1f3__ cat:*)",
+      "Bash(\"c:/Users/rapha/dev/Github/portfolio/README.md\":*)"
+    ]
+  }
+}
