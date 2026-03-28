@@ -6,3 +6,6 @@ node_modules/
 
 # Original Framer SingleFile export (kept as backup)
 Civio*.html
+
+# Claude Code internal worktrees
+.claude/worktrees/
